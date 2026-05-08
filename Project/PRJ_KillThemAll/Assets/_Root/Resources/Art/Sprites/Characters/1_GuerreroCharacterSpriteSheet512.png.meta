@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: 4a8d9c58cba31d64e853f517e19df9ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330838a060dd0ae4dbbd0162a84db7dc
+      internalID: 219675370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d4053b6e32de4e9f48114b32727d3
+      internalID: 791654701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2d06a1f6c991144ab777367e743c57
+      internalID: 2124624596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee487de7cdf9d8341bcad9414504bf6b
+      internalID: 754914179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69815cd88776924eaaea1ca7f3e5f33
+      internalID: 839680949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848f61ee02428b34995042af10301e86
+      internalID: 69933116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132e2800f8b308544aba35db790a7959
+      internalID: 1217127169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b818a02b3de1d1f4e899fe45537981b0
+      internalID: -70766961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_40
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00649b02ceeecdb4781cfe21e0ab6419
+      internalID: -1657839439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_41
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e85bcaf2c5257a468c385905553ac17
+      internalID: 769155757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_42
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8da4bce5b403419208d0ba9097edb
+      internalID: 1711050584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_43
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8175e9324087f41b5a07abc418f3ce
+      internalID: -1878889012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_44
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94ad4c6bbadee42b8c54d68f4c826a
+      internalID: -2133099925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_45
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aad0facffaf1e4c859960c8855934f
+      internalID: -311971010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_46
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaa99c5ec0f65b499a96cb87b85a303
+      internalID: -733587114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_47
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f549e8828360a247973ce6842ed437a
+      internalID: -523244741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad104bff1114334985de4e324414dc0
+      internalID: -988201334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0e56fd7d5af54e8ec09c64c1f543e
+      internalID: -1883691665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dbd347f5bbbc14e86304c7b701f6c0
+      internalID: -1457366386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419120933b3e5df4980afd5150d22993
+      internalID: -2139166369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_52
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7432d4184507468e7d623b54ae07a
+      internalID: 1275688539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cbb857efcf77438d0b1fe551dede8
+      internalID: 171515104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd6ae8740b49941892f78c213b920a
+      internalID: -1138970265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_55
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae9066c5df60e34e9f9481ad6a39479
+      internalID: 212061218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_56
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5731ef1c0d91d4685f491bbf66ed99
+      internalID: -1044846571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_57
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb25bfcd248bc043ad4ba4620e615f0
+      internalID: 1778593551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_58
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb95a33c00504a4f8479f52cc18571a
+      internalID: -1959263734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_59
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23dbe2cf8d1d243961a3048800a8dd
+      internalID: -380758724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_60
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25ee76d6c22ad4caf155fdb89fdc82
+      internalID: 2083799804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_61
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18ca72219db18142919e9274f0d8f43
+      internalID: 1616124828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_62
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59601dcaf8db404c8bb8c1d99d61c91
+      internalID: 875402547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_63
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145da127d7bf40a459bdfe9269f40645
+      internalID: -1536157129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2252464fd1046b64fa6e39f847aae09c
+      internalID: 1960507311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac09355fd7db74f8898eb54596ffd0
+      internalID: -469332927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56fc59d5935cf84d95d1f2b5a3c6815
+      internalID: 1124586443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee355ce284a67843ab2e7a1a6f54ead
+      internalID: 913913260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b470a53cc54c61d409bd80216de7b62b
+      internalID: 502639704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057134bd027a4ff44834cd15f0e7a41b
+      internalID: 1362011573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba350715facb74a88e05037b98ad20
+      internalID: -1777535928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260704db7cf8e6f4bb99968a92b43d5e
+      internalID: 1749205206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a192baa9d4ace1849b3d4e946eb3ec41
+      internalID: 826000810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f261713c778394cbd15fa96be2a441
+      internalID: 1125372826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922f7b45eb5da0d4ea5e31e6adb98987
+      internalID: -128881340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_11
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670113d4e6c48a4eb092a99ef84ce6a
+      internalID: 1096785676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_12
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b9a21ff34f4745a42e8cdda2cdb1a
+      internalID: -1685784965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_13
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2946a3d7635dd3043acb264812d9d958
+      internalID: -1963236361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_14
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5790eae3504b50d46be461ebd5bc4bc8
+      internalID: 1385482222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_GuerreroCharacterSpriteSheet512_15
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0adfbe31cceb52458025600b9c8bcc5
+      internalID: -1522878719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1_GuerreroCharacterSpriteSheet512_0: 1960507311
+      1_GuerreroCharacterSpriteSheet512_1: -469332927
+      1_GuerreroCharacterSpriteSheet512_10: -128881340
+      1_GuerreroCharacterSpriteSheet512_11: 1096785676
+      1_GuerreroCharacterSpriteSheet512_12: -1685784965
+      1_GuerreroCharacterSpriteSheet512_13: -1963236361
+      1_GuerreroCharacterSpriteSheet512_14: 1385482222
+      1_GuerreroCharacterSpriteSheet512_15: -1522878719
+      1_GuerreroCharacterSpriteSheet512_16: -1035611272
+      1_GuerreroCharacterSpriteSheet512_17: 1136667236
+      1_GuerreroCharacterSpriteSheet512_18: -361906628
+      1_GuerreroCharacterSpriteSheet512_19: -587555182
+      1_GuerreroCharacterSpriteSheet512_2: 1124586443
+      1_GuerreroCharacterSpriteSheet512_20: -2043056195
+      1_GuerreroCharacterSpriteSheet512_21: 1887102637
+      1_GuerreroCharacterSpriteSheet512_22: 1551980905
+      1_GuerreroCharacterSpriteSheet512_23: 1926952219
+      1_GuerreroCharacterSpriteSheet512_24: 2084141566
+      1_GuerreroCharacterSpriteSheet512_25: 646918508
+      1_GuerreroCharacterSpriteSheet512_26: 333071542
+      1_GuerreroCharacterSpriteSheet512_27: 1386908622
+      1_GuerreroCharacterSpriteSheet512_28: 962818794
+      1_GuerreroCharacterSpriteSheet512_29: -375018549
+      1_GuerreroCharacterSpriteSheet512_3: 913913260
+      1_GuerreroCharacterSpriteSheet512_30: 279028942
+      1_GuerreroCharacterSpriteSheet512_31: -1288273437
+      1_GuerreroCharacterSpriteSheet512_32: 219675370
+      1_GuerreroCharacterSpriteSheet512_33: 791654701
+      1_GuerreroCharacterSpriteSheet512_34: 2124624596
+      1_GuerreroCharacterSpriteSheet512_35: 754914179
+      1_GuerreroCharacterSpriteSheet512_36: 839680949
+      1_GuerreroCharacterSpriteSheet512_37: 69933116
+      1_GuerreroCharacterSpriteSheet512_38: 1217127169
+      1_GuerreroCharacterSpriteSheet512_39: -70766961
+      1_GuerreroCharacterSpriteSheet512_4: 502639704
+      1_GuerreroCharacterSpriteSheet512_40: -1657839439
+      1_GuerreroCharacterSpriteSheet512_41: 769155757
+      1_GuerreroCharacterSpriteSheet512_42: 1711050584
+      1_GuerreroCharacterSpriteSheet512_43: -1878889012
+      1_GuerreroCharacterSpriteSheet512_44: -2133099925
+      1_GuerreroCharacterSpriteSheet512_45: -311971010
+      1_GuerreroCharacterSpriteSheet512_46: -733587114
+      1_GuerreroCharacterSpriteSheet512_47: -523244741
+      1_GuerreroCharacterSpriteSheet512_48: -988201334
+      1_GuerreroCharacterSpriteSheet512_49: -1883691665
+      1_GuerreroCharacterSpriteSheet512_5: 1362011573
+      1_GuerreroCharacterSpriteSheet512_50: -1457366386
+      1_GuerreroCharacterSpriteSheet512_51: -2139166369
+      1_GuerreroCharacterSpriteSheet512_52: 1275688539
+      1_GuerreroCharacterSpriteSheet512_53: 171515104
+      1_GuerreroCharacterSpriteSheet512_54: -1138970265
+      1_GuerreroCharacterSpriteSheet512_55: 212061218
+      1_GuerreroCharacterSpriteSheet512_56: -1044846571
+      1_GuerreroCharacterSpriteSheet512_57: 1778593551
+      1_GuerreroCharacterSpriteSheet512_58: -1959263734
+      1_GuerreroCharacterSpriteSheet512_59: -380758724
+      1_GuerreroCharacterSpriteSheet512_6: -1777535928
+      1_GuerreroCharacterSpriteSheet512_60: 2083799804
+      1_GuerreroCharacterSpriteSheet512_61: 1616124828
+      1_GuerreroCharacterSpriteSheet512_62: 875402547
+      1_GuerreroCharacterSpriteSheet512_63: -1536157129
+      1_GuerreroCharacterSpriteSheet512_64: 1450555361
+      1_GuerreroCharacterSpriteSheet512_65: 195533363
+      1_GuerreroCharacterSpriteSheet512_66: -2103025512
+      1_GuerreroCharacterSpriteSheet512_67: 1079843716
+      1_GuerreroCharacterSpriteSheet512_68: 945160971
+      1_GuerreroCharacterSpriteSheet512_69: -591806228
+      1_GuerreroCharacterSpriteSheet512_7: 1749205206
+      1_GuerreroCharacterSpriteSheet512_70: -800306825
+      1_GuerreroCharacterSpriteSheet512_71: -2082200214
+      1_GuerreroCharacterSpriteSheet512_72: -1315998131
+      1_GuerreroCharacterSpriteSheet512_73: -324319464
+      1_GuerreroCharacterSpriteSheet512_74: 1806710867
+      1_GuerreroCharacterSpriteSheet512_75: 328957791
+      1_GuerreroCharacterSpriteSheet512_76: -1055404674
+      1_GuerreroCharacterSpriteSheet512_77: 290717589
+      1_GuerreroCharacterSpriteSheet512_78: 147453960
+      1_GuerreroCharacterSpriteSheet512_79: -176541361
+      1_GuerreroCharacterSpriteSheet512_8: 826000810
+      1_GuerreroCharacterSpriteSheet512_9: 1125372826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

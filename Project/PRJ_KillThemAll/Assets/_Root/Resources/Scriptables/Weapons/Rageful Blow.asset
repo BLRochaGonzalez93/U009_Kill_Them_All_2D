@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62da1e7ea2535cc4797107be537dd4bb, type: 3}
+  m_Name: Rageful Blow
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 6b7b9195758de1d48a770d2b60f45b9d, type: 3}
+  maxLevel: 5
+  behaviour: MeleeWeapon
+  baseStats:
+    name: Rageful Blow
+    description: Throw a wave  with his sword
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 3833381734734031070, guid: a19777f8abdc06347ba3c962352f58b9, type: 3}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0.4
+    damage: 10
+    damageVariance: 2
+    area: 0.5
+    speed: 0
+    cooldown: 13
+    projectileInterval: 0.3
+    knockback: 1
+    number: 1
+    piercing: 5
+    maxInstances: 100
+    randomTarget: 0
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 0
+    PreserveX: 0
+  linearGrowth:
+  - name: Level 2
+    description: Area grows
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0.2
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 1
+    maxInstances: 0
+    randomTarget: 0
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 0
+    PreserveX: 0
+  - name: Level 3
+    description: Area grows
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0.2
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 1
+    maxInstances: 0
+    randomTarget: 0
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 0
+    PreserveX: 0
+  - name: Level 4
+    description: Area grows
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0.2
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 1
+    maxInstances: 0
+    randomTarget: 0
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 0
+    PreserveX: 0
+  - name: Level 5
+    description: Area grows
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0.2
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 1
+    maxInstances: 0
+    randomTarget: 0
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 0
+    PreserveX: 0

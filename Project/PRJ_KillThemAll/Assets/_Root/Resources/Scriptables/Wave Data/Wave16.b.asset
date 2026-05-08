@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36439f6d448ed5248af0c34d4a8a37aa, type: 3}
+  m_Name: Wave16.b
+  m_EditorClassIdentifier: 
+  possibleSpawnPrefabs:
+  - {fileID: 6531607385478309889, guid: 33cfe0020cf67554a90d3c18ca3154f7, type: 3}
+  - {fileID: 2303624559122123817, guid: bd4e403b65876fc43815a52df10cde8a, type: 3}
+  - {fileID: 7752508865504055710, guid: 9bc80b70dfa58bd42bb06daef20f7724, type: 3}
+  - {fileID: 7465584481988814444, guid: c7940801d6232af40a5d167edede4ff7, type: 3}
+  - {fileID: 5257746555772964383, guid: 7b68be8e80e2a1e48aff989ccbf055d3, type: 3}
+  - {fileID: 7193402950122807135, guid: fe8111779eb553b43b59efe704215ed6, type: 3}
+  - {fileID: 1652271659902961461, guid: 93c60b8eca3ab8c46a6c4ffa800e70cd, type: 3}
+  - {fileID: 4742998527572717018, guid: c74d11c9e164cb648ae11c81200477f1, type: 3}
+  - {fileID: 4742998527572717018, guid: c74d11c9e164cb648ae11c81200477f1, type: 3}
+  spawnInterval: {x: 1, y: 2}
+  spawnsPerTick: {x: 8, y: 10}
+  waveDuration: 60
+  minSpawns: 0
+  maxSpawns: 1000
+  conditions: -1
+  mustKillAll: 0
+  spawnCount: 0

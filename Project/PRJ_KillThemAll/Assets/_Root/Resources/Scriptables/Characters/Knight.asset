@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0fdc727e51c2a488209e36cfcb8297, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 92885073c980349c2a786888bd70f710, type: 3}
+  animator: {fileID: 9100000, guid: 59ff5c722ff6f7d45b601058e776cf29, type: 2}
+  name: Tonio
+  startingWeapon: {fileID: 11400000, guid: a3d8dc25a3b48d6478fb6631b1934e74, type: 2}
+  allWeapons:
+  - {fileID: 11400000, guid: a3d8dc25a3b48d6478fb6631b1934e74, type: 2}
+  - {fileID: 11400000, guid: 3c0cd52a3b665904da155264a40a5bbf, type: 2}
+  - {fileID: 11400000, guid: 18b60f9606d3f0e4bb3417cf2355d094, type: 2}
+  - {fileID: 11400000, guid: cdb9c796504291948ab0842772349798, type: 2}
+  stats:
+    maxHealth: 250
+    recovery: 0.2
+    armor: 0
+    moveSpeed: 1
+    might: 1
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    luck: 1
+    growth: 1
+    greed: 1
+    curse: 1
+    magnet: 1.8
+    revival: 0

@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: ad8a2c6a2de38cb499c966cbec8f67bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc94127b912d0c34f919655a9447541d
+      internalID: -1525763424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a27db1cb23b4946821f350146a821e
+      internalID: 274497544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d35350d25e07548912ab2afe021e2a
+      internalID: 477517489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2629708cca511a445af868ff9d0cdf5a
+      internalID: 785585126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee84b6d867e62a47ade41b968b7d117
+      internalID: -93896855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141cc81c46145e147a5688309b18a382
+      internalID: -104445261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b085412bd7ea1409773d625d6df879
+      internalID: -2110270362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0b581d69c9ad48a5afa670c85173e
+      internalID: 567521072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_24
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647de57b9b99c2b43b1b156e30693382
+      internalID: 2087560347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_25
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b93afa0dd8d62498d6e969fb8cd6a6
+      internalID: 1173589052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_26
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907048867cd4494693bd08418922316
+      internalID: 118845922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_27
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d188f5f27b14d6340b3e04700b63d11b
+      internalID: 1189230654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_28
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca92104fe651d145be021bfba8de134
+      internalID: -1392088728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_29
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a67821ea0949a4bae799c86e8e1e53
+      internalID: 2079856816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_30
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a8fa40864fcbc42adc40956defc529
+      internalID: -621975638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DracomanteCharacterSheets512_31
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e756765121690fa4fa8d7d4c4c5797b4
+      internalID: 1966645387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DracomanteCharacterSheets512_0: 1978501368
+      DracomanteCharacterSheets512_1: -1909613195
+      DracomanteCharacterSheets512_10: 1395567326
+      DracomanteCharacterSheets512_11: 541717913
+      DracomanteCharacterSheets512_12: 983694000
+      DracomanteCharacterSheets512_13: -868247452
+      DracomanteCharacterSheets512_14: -2140125537
+      DracomanteCharacterSheets512_15: 254672514
+      DracomanteCharacterSheets512_16: -1525763424
+      DracomanteCharacterSheets512_17: 274497544
+      DracomanteCharacterSheets512_18: 477517489
+      DracomanteCharacterSheets512_19: 785585126
+      DracomanteCharacterSheets512_2: 1518091734
+      DracomanteCharacterSheets512_20: -93896855
+      DracomanteCharacterSheets512_21: -104445261
+      DracomanteCharacterSheets512_22: -2110270362
+      DracomanteCharacterSheets512_23: 567521072
+      DracomanteCharacterSheets512_24: 2087560347
+      DracomanteCharacterSheets512_25: 1173589052
+      DracomanteCharacterSheets512_26: 118845922
+      DracomanteCharacterSheets512_27: 1189230654
+      DracomanteCharacterSheets512_28: -1392088728
+      DracomanteCharacterSheets512_29: 2079856816
+      DracomanteCharacterSheets512_3: 280313377
+      DracomanteCharacterSheets512_30: -621975638
+      DracomanteCharacterSheets512_31: 1966645387
+      DracomanteCharacterSheets512_32: 1378691107
+      DracomanteCharacterSheets512_33: -1842138038
+      DracomanteCharacterSheets512_34: -1059926933
+      DracomanteCharacterSheets512_35: 2053003496
+      DracomanteCharacterSheets512_36: -985777146
+      DracomanteCharacterSheets512_37: -1983390501
+      DracomanteCharacterSheets512_38: -1776642527
+      DracomanteCharacterSheets512_39: 1274309176
+      DracomanteCharacterSheets512_4: -1639028919
+      DracomanteCharacterSheets512_40: 1814168453
+      DracomanteCharacterSheets512_41: 2079717292
+      DracomanteCharacterSheets512_42: 1617927138
+      DracomanteCharacterSheets512_43: 1644822057
+      DracomanteCharacterSheets512_44: 1629948121
+      DracomanteCharacterSheets512_45: -1506459506
+      DracomanteCharacterSheets512_46: -669343582
+      DracomanteCharacterSheets512_47: 807801325
+      DracomanteCharacterSheets512_48: -1667665020
+      DracomanteCharacterSheets512_49: 951768117
+      DracomanteCharacterSheets512_5: -138393840
+      DracomanteCharacterSheets512_50: -1928115463
+      DracomanteCharacterSheets512_51: 791756758
+      DracomanteCharacterSheets512_52: -1898905617
+      DracomanteCharacterSheets512_53: 1791221257
+      DracomanteCharacterSheets512_54: -1411459418
+      DracomanteCharacterSheets512_55: 667120463
+      DracomanteCharacterSheets512_56: 1632386639
+      DracomanteCharacterSheets512_57: 695468060
+      DracomanteCharacterSheets512_58: -466588509
+      DracomanteCharacterSheets512_59: -2089166405
+      DracomanteCharacterSheets512_6: -1176580741
+      DracomanteCharacterSheets512_60: 1362977656
+      DracomanteCharacterSheets512_61: -471100344
+      DracomanteCharacterSheets512_62: -1171622204
+      DracomanteCharacterSheets512_63: -531909788
+      DracomanteCharacterSheets512_64: 2121397852
+      DracomanteCharacterSheets512_65: -840249201
+      DracomanteCharacterSheets512_66: 326512198
+      DracomanteCharacterSheets512_67: 1412265086
+      DracomanteCharacterSheets512_68: 1366477642
+      DracomanteCharacterSheets512_69: -860166938
+      DracomanteCharacterSheets512_7: -1307798798
+      DracomanteCharacterSheets512_70: 888639432
+      DracomanteCharacterSheets512_71: 955422978
+      DracomanteCharacterSheets512_72: -741736868
+      DracomanteCharacterSheets512_73: 1847807003
+      DracomanteCharacterSheets512_74: 1649123996
+      DracomanteCharacterSheets512_75: 1088977206
+      DracomanteCharacterSheets512_76: 1156982281
+      DracomanteCharacterSheets512_77: 1553989775
+      DracomanteCharacterSheets512_78: -1251280671
+      DracomanteCharacterSheets512_79: -1603847795
+      DracomanteCharacterSheets512_8: -1796321711
+      DracomanteCharacterSheets512_9: 1940448709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

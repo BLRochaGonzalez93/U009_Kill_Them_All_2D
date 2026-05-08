@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e0fdc727e51c2a488209e36cfcb8297, type: 3}
+  m_Name: Sorcerer
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 8a247aa270b8b49a692ad2f1643312d0, type: 3}
+  animator: {fileID: 9100000, guid: 62c6a2f5ef34d8946bcd31b5a68262db, type: 2}
+  name: Lama
+  startingWeapon: {fileID: 11400000, guid: 1c7f47964643d1449be53a736173384b, type: 2}
+  allWeapons:
+  - {fileID: 11400000, guid: 1c7f47964643d1449be53a736173384b, type: 2}
+  - {fileID: 11400000, guid: 3b6d85d2e4d65724e97c3b8af475c2d4, type: 2}
+  - {fileID: 11400000, guid: 4b1d3b2aef5229e4fab415fe40db9fc5, type: 2}
+  - {fileID: 11400000, guid: 751c70aefdf2cb74887fc95f3fef3f62, type: 2}
+  stats:
+    maxHealth: 170
+    recovery: 0.1
+    armor: 0
+    moveSpeed: 1
+    might: 1
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    luck: 1
+    growth: 1
+    greed: 1
+    curse: 1
+    magnet: 2
+    revival: 0

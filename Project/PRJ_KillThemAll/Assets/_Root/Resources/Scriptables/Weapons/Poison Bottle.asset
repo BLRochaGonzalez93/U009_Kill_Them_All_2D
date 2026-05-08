@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62da1e7ea2535cc4797107be537dd4bb, type: 3}
+  m_Name: Poison Bottle
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 297a2ea2b3e0dbd428ab7658814823ac, type: 3}
+  maxLevel: 5
+  behaviour: VFXWeapon
+  baseStats:
+    name: Poison Bottle
+    description: Thow a cloud of poison that does periodical damage
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: -1474601139201859843, guid: a5f7242dd69c9da4484a8a5ac2237320, type: 3}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 3
+    damage: 3
+    damageVariance: 1
+    area: 2
+    speed: 0
+    cooldown: 15
+    projectileInterval: 0.2
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 50
+    randomTarget: 1
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 1
+    PreserveX: 0
+  linearGrowth:
+  - name: Level 2
+    description: Base Damage up by 2.
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+    randomTarget: 1
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 1
+    PreserveX: 0
+  - name: Level 3
+    description: Cooldown reduced by 0.5 seconds. Base Damage up by 1.
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 5
+    damageVariance: 1
+    area: 0
+    speed: 0
+    cooldown: -0.5
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+    randomTarget: 1
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 1
+    PreserveX: 0
+  - name: Level 4
+    description: Base Damage up by 1.
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 1
+    damage: 2
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+    randomTarget: 1
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 1
+    PreserveX: 0
+  - name: Level 5
+    description: Cooldown reduced by 0.5 seconds. Base Damage up by 2.Numbre of potions
+      +1
+    projectilePrefab: {fileID: 0}
+    meleePrefab: {fileID: 0}
+    hitEffectPrefab: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: -0.5
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+    randomTarget: 1
+    instantiateInOwner: 0
+    stayInGround: 1
+    only1Impact: 0
+    ZScale: 1
+    PreserveX: 0
