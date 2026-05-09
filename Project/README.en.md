@@ -4,17 +4,17 @@
 
 ## Summary
 
-**Kill Them All!** is a playable roguelite prototype developed in Unity with C#. The project combines top-down/isometric action, wave survival, auto-attacks, character selection, upgradeable skills, experience gems, level progression, increasing difficulty and a dark fantasy aesthetic with a cartoon chibi style.
+Playable roguelite prototype developed in Unity with C#. **Kill Them All!** is a top-down/isometric survival game based on auto-attacks, enemy waves, selectable characters, upgradeable skills, experience, gems and progressive difficulty.
 
-The player chooses between several heroes with differentiated abilities and must survive as long as possible in the Abyss, defeating enemies, collecting gems, leveling up and upgrading skills while facing increasingly dangerous threats.
+The experience takes place in the Abyss, a dark and dangerous place connected to Eldoria and the Dark Warrior. The player must survive, defeat enemy hordes, collect gems, level up and improve skills to last longer and longer.
 
 ## Collaboration
 
 Project developed as a team together with **Hugo** and **Sergio**. My contribution focused on core programming, mechanic implementation, gameplay systems, integration, technical support, testing and development coordination.
 
-## Design documentation
+## Documentation
 
-- [`Project/GDD_Kill them All!.pdf`](./Project/GDD_Kill%20them%20All!.pdf)
+- [`GDD_Kill them All!.pdf`](./GDD_Kill%20them%20All!.pdf)
 
 ## Technologies
 
@@ -100,23 +100,17 @@ In addition to the implemented content, the design and future improvements inclu
 - Advanced balancing of waves, skills and difficulty curve.
 - Narrative expansion of the Abyss, Eldoria and the Dark Warrior.
 
-## Visuals
+## Screenshots
 
-> Final screenshots and images pending.
+> Final screenshots pending.
 
-Planned visual pack names:
+Planned path:
 
-- `killthemall-logo.png`
-- `killthemall-cover.png`
-- `killthemall-banner.png`
-- `killthemall-thumbnail-01-hero-selection.png`
-- `killthemall-thumbnail-02-horde-combat.png`
-- `killthemall-thumbnail-03-skill-upgrades.png`
-- `killthemall-thumbnail-04-dark-warrior-boss.png`
+![Gameplay](./Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
-The main logic is organized inside `Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/` into several areas:
+The main logic is organized inside `PRJ_KillThemAll/Assets/_Root/Resources/Scripts/` into several areas:
 
 - **Enemy** — enemy movement, stats, spawner, waves and enemy data.
 - **General** — game manager, character selection, scenes, damage popups, drops and utilities.
@@ -165,22 +159,24 @@ Highlighted scripts:
 
 ## Recommended code to review
 
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/General/GameManager.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/General/GameManager.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/General/CharacterSelector.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/General/CharacterSelector.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/EnemySpawner.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/EnemySpawner.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/SpawnManager.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/SpawnManager.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/WaveData.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/WaveData.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/EnemyMovement.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/EnemyMovement.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Player/PlayerMovement.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Player/PlayerMovement.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Player/PlayerStats.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Player/PlayerStats.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Weapons/Weapon.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Weapons/Weapon.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Weapons/ProjectileWeapon.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Weapons/ProjectileWeapon.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/UI/UIUpgradeWindow.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/UI/UIUpgradeWindow.cs)
-- [`Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Map/MapController.cs`](./Project/PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Map/MapController.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/General/GameManager.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/General/GameManager.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/General/CharacterSelector.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/General/CharacterSelector.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/EnemySpawner.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/EnemySpawner.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/SpawnManager.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/SpawnManager.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/WaveData.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/WaveData.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/EnemyMovement.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Enemy/EnemyMovement.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Player/PlayerMovement.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Player/PlayerMovement.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Player/PlayerStats.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Player/PlayerStats.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Weapons/Weapon.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Weapons/Weapon.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Weapons/ProjectileWeapon.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Weapons/ProjectileWeapon.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/UI/UIUpgradeWindow.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/UI/UIUpgradeWindow.cs)
+- [`PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Map/MapController.cs`](./PRJ_KillThemAll/Assets/_Root/Resources/Scripts/Map/MapController.cs)
 
 ## Build
 
 The build is available through GitHub Releases.
+
+[`Releases/Download.md`](./Releases/Download.md)
 
 [Download build U009-v1.0.0](https://github.com/BLRochaGonzalez93/U009_Kill_Them_All_2D/releases/tag/U009-v1.0.0)
 
