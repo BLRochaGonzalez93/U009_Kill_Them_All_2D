@@ -70,4 +70,4 @@ Playable roguelite prototype.
 
 ## Repository
 
-[View project repository](https://github.com/BLRochaGonzalez93/U010_Sokar/U009_Kill_Them_All_2D)
+[View project repository](https://github.com/BLRochaGonzalez93/U009_Kill_Them_All_2D)
