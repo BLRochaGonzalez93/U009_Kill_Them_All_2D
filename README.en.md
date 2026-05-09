@@ -14,7 +14,7 @@ Project developed as a team together with **Hugo** and **Sergio**. My contributi
 
 ## Design documentation
 
-- [`Project/GDD_Kill them All!.pdf`](./Project/GDD_Kill%20them%20All!.pdf)
+- [`Project/GDD_Kill them All!.pdf`](./Media/Diagrams/GDD_Kill%20them%20All!.pdf)
 
 ## Technologies
 

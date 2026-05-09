@@ -14,7 +14,7 @@ Project developed as a team together with **Hugo** and **Sergio**. My contributi
 
 ## Documentation
 
-- [`GDD_Kill them All!.pdf`](./GDD_Kill%20them%20All!.pdf)
+- [`GDD_Kill them All!.pdf`](../Media/Diagrams/GDD_Kill%20them%20All!.pdf)
 
 ## Technologies
 
@@ -176,7 +176,7 @@ Highlighted scripts:
 
 The build is available through GitHub Releases.
 
-[`Releases/Download.md`](./Releases/Download.md)
+[`Releases/Download.md`](./Releases/Download.en.md)
 
 [Download build U009-v1.0.0](https://github.com/BLRochaGonzalez93/U009_Kill_Them_All_2D/releases/tag/U009-v1.0.0)
 
